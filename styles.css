@@ -9,6 +9,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* navbar */
+
 header li {
     list-style: none;
     display: inline-block;
@@ -35,6 +37,7 @@ header a:hover {
     align-items: center;
     padding: 0 120px;
     padding-top: 30px;
+    margin-bottom: 80px;
 }
 
 img {
@@ -47,7 +50,7 @@ img {
     width: 90px;
 }
 
-
+/* hero section*/
 
 .hero-left h1 {
     font-size: 48px;
@@ -64,7 +67,6 @@ img {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin-top: 60px;
     padding: 0 120px;
     padding-bottom: 60px;
 }
