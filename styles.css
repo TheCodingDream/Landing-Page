@@ -40,6 +40,16 @@ header a:hover {
     margin-bottom: 80px;
 }
 
+.nav-button {
+    font-size: 18px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: none;
+    border-radius: 5px;
+    padding: 2px 20px;
+    cursor: pointer;
+}
+
 img {
     width: 90px;
     align-items: center;
@@ -69,10 +79,11 @@ img {
     align-items: center;
     padding: 0 120px;
     padding-bottom: 60px;
+    margin: 20px;
 }
 
 .hero-right {
-   padding-bottom: 20px;
+
 }
 
 .hero-image {
@@ -87,14 +98,15 @@ img {
     margin-right: auto;
 }
 
-button {
+button.hero-button{
     background-color: #3882f6;
     color: #f9faf8;
     border: none;
     font-size: 18px;
     padding: 10px 30px;
-    margin-top: 10px;
+    margin-top: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 
