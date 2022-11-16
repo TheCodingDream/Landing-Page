@@ -109,6 +109,20 @@ button.hero-button{
     cursor: pointer;
 }
 
+/* 2nd section */
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    padding: 20px 0;
+}
+
 
 
 
