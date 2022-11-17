@@ -50,7 +50,7 @@ header a:hover {
     cursor: pointer;
 }
 
-img {
+.logo-img {
     width: 90px;
     align-items: center;
 }
@@ -119,6 +119,19 @@ button.hero-button{
     font-weight: 900;
     color: #1f2937;
     padding: 20px 0;
+}
+
+.card {
+    width: 25%;
+}
+
+.card-image img {
+    height: 200px;
+    width: 300px;
+}
+
+.card-container {
+    display: flex;
 }
 
 
